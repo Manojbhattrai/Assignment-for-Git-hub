@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        int age=12;
+        int age= 56;
         if(age>0 && age<18){
             System.out.println("Your age is "+ age +". You are underage to take License.");
          } else{
